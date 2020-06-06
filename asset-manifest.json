@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DogApp/static/css/main.1d9d24a8.chunk.css",
+    "main.js": "/DogApp/static/js/main.676d7157.chunk.js",
+    "main.js.map": "/DogApp/static/js/main.676d7157.chunk.js.map",
+    "runtime-main.js": "/DogApp/static/js/runtime-main.8d7aa13d.js",
+    "runtime-main.js.map": "/DogApp/static/js/runtime-main.8d7aa13d.js.map",
+    "static/css/2.ace36aee.chunk.css": "/DogApp/static/css/2.ace36aee.chunk.css",
+    "static/js/2.697c0c6b.chunk.js": "/DogApp/static/js/2.697c0c6b.chunk.js",
+    "static/js/2.697c0c6b.chunk.js.map": "/DogApp/static/js/2.697c0c6b.chunk.js.map",
+    "index.html": "/DogApp/index.html",
+    "precache-manifest.559f340ec75d781a508a93a2a363c95d.js": "/DogApp/precache-manifest.559f340ec75d781a508a93a2a363c95d.js",
+    "service-worker.js": "/DogApp/service-worker.js",
+    "static/css/2.ace36aee.chunk.css.map": "/DogApp/static/css/2.ace36aee.chunk.css.map",
+    "static/css/main.1d9d24a8.chunk.css.map": "/DogApp/static/css/main.1d9d24a8.chunk.css.map",
+    "static/js/2.697c0c6b.chunk.js.LICENSE.txt": "/DogApp/static/js/2.697c0c6b.chunk.js.LICENSE.txt",
+    "static/media/hazel.jpg": "/DogApp/static/media/hazel.4eb85e80.jpg",
+    "static/media/tubby.jpg": "/DogApp/static/media/tubby.2f47cb65.jpg",
+    "static/media/whiskey.jpg": "/DogApp/static/media/whiskey.5c1e3b17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7aa13d.js",
+    "static/css/2.ace36aee.chunk.css",
+    "static/js/2.697c0c6b.chunk.js",
+    "static/css/main.1d9d24a8.chunk.css",
+    "static/js/main.676d7157.chunk.js"
+  ]
+}
