@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AdoptionApp/static/css/main.a44f3027.chunk.css",
+    "main.css": "/AdoptionApp/static/css/main.1acf4ce8.chunk.css",
     "main.js": "/AdoptionApp/static/js/main.cae5b49b.chunk.js",
     "main.js.map": "/AdoptionApp/static/js/main.cae5b49b.chunk.js.map",
     "runtime-main.js": "/AdoptionApp/static/js/runtime-main.5524d090.js",
@@ -9,17 +9,17 @@
     "static/js/2.7e25ad49.chunk.js": "/AdoptionApp/static/js/2.7e25ad49.chunk.js",
     "static/js/2.7e25ad49.chunk.js.map": "/AdoptionApp/static/js/2.7e25ad49.chunk.js.map",
     "index.html": "/AdoptionApp/index.html",
-    "precache-manifest.3d9040611b9ec7e3a3627a330e7825ba.js": "/AdoptionApp/precache-manifest.3d9040611b9ec7e3a3627a330e7825ba.js",
+    "precache-manifest.4c43e0dc635a933846c49b322eb0912d.js": "/AdoptionApp/precache-manifest.4c43e0dc635a933846c49b322eb0912d.js",
     "service-worker.js": "/AdoptionApp/service-worker.js",
     "static/css/2.ace36aee.chunk.css.map": "/AdoptionApp/static/css/2.ace36aee.chunk.css.map",
-    "static/css/main.a44f3027.chunk.css.map": "/AdoptionApp/static/css/main.a44f3027.chunk.css.map",
+    "static/css/main.1acf4ce8.chunk.css.map": "/AdoptionApp/static/css/main.1acf4ce8.chunk.css.map",
     "static/js/2.7e25ad49.chunk.js.LICENSE.txt": "/AdoptionApp/static/js/2.7e25ad49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5524d090.js",
     "static/css/2.ace36aee.chunk.css",
     "static/js/2.7e25ad49.chunk.js",
-    "static/css/main.a44f3027.chunk.css",
+    "static/css/main.1acf4ce8.chunk.css",
     "static/js/main.cae5b49b.chunk.js"
   ]
 }
