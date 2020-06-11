@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/AdoptionApp/static/css/main.b470b2c6.chunk.css",
-    "main.js": "/AdoptionApp/static/js/main.87edbd76.chunk.js",
-    "main.js.map": "/AdoptionApp/static/js/main.87edbd76.chunk.js.map",
+    "main.css": "/AdoptionApp/static/css/main.a44f3027.chunk.css",
+    "main.js": "/AdoptionApp/static/js/main.cae5b49b.chunk.js",
+    "main.js.map": "/AdoptionApp/static/js/main.cae5b49b.chunk.js.map",
     "runtime-main.js": "/AdoptionApp/static/js/runtime-main.5524d090.js",
     "runtime-main.js.map": "/AdoptionApp/static/js/runtime-main.5524d090.js.map",
     "static/css/2.ace36aee.chunk.css": "/AdoptionApp/static/css/2.ace36aee.chunk.css",
     "static/js/2.7e25ad49.chunk.js": "/AdoptionApp/static/js/2.7e25ad49.chunk.js",
     "static/js/2.7e25ad49.chunk.js.map": "/AdoptionApp/static/js/2.7e25ad49.chunk.js.map",
     "index.html": "/AdoptionApp/index.html",
-    "precache-manifest.6ced651f87331015edc15db00cd0673d.js": "/AdoptionApp/precache-manifest.6ced651f87331015edc15db00cd0673d.js",
+    "precache-manifest.3d9040611b9ec7e3a3627a330e7825ba.js": "/AdoptionApp/precache-manifest.3d9040611b9ec7e3a3627a330e7825ba.js",
     "service-worker.js": "/AdoptionApp/service-worker.js",
     "static/css/2.ace36aee.chunk.css.map": "/AdoptionApp/static/css/2.ace36aee.chunk.css.map",
-    "static/css/main.b470b2c6.chunk.css.map": "/AdoptionApp/static/css/main.b470b2c6.chunk.css.map",
+    "static/css/main.a44f3027.chunk.css.map": "/AdoptionApp/static/css/main.a44f3027.chunk.css.map",
     "static/js/2.7e25ad49.chunk.js.LICENSE.txt": "/AdoptionApp/static/js/2.7e25ad49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5524d090.js",
     "static/css/2.ace36aee.chunk.css",
     "static/js/2.7e25ad49.chunk.js",
-    "static/css/main.b470b2c6.chunk.css",
-    "static/js/main.87edbd76.chunk.js"
+    "static/css/main.a44f3027.chunk.css",
+    "static/js/main.cae5b49b.chunk.js"
   ]
 }
